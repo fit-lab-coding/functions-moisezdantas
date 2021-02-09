@@ -1,8 +1,6 @@
 package fit;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
-
 import java.util.function.Function;
 
 import org.junit.Test;
